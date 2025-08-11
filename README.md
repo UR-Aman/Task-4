@@ -100,31 +100,6 @@ Enter user ID when prompted.
 
 ---
 
-## 📌 Outcome
-
-- Flask REST API ka real-world implementation samjha
-- CRUD operations perform karna sikha
-- Python scripts se API testing ka practice kiya
-
----
-
-## 📤 Upload to GitHub
-
-1. Create a repo on GitHub (e.g., `flask-user-api`)
-2. Run these commands:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Flask user API project"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/flask-user-api.git
-git push -u origin main
-```
-
-✔️ Done!
-
----
 
 ## 👨‍💻 Author
 
